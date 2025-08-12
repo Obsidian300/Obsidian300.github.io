@@ -1,0 +1,9 @@
+🌐 NEWS WEBSITES
+Name	Link	Type
+Anime News Network	animenewsnetwork.com	Industry-standard, reliable news
+Crunchyroll News	crunchyroll.com/news	Official announcements + updates
+Natalie Comic	natalie.mu/comic	Japanese official site for anime/manga news
+Tokyo Otaku Mode News	otakumode.com/news	Global otaku culture news
+AnimeTrending	anitrendz.net/news	Seasonal anime updates, adaptations
+MyAnimeList News	myanimelist.net/news	Licensed anime/manga announcements
+Otaku USA	otakuusamagazine.com	U.S.-based anime/manga features and news
